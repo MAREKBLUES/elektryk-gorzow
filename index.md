@@ -3,7 +3,8 @@
 tel. 510002388, 605671631  
 ul. Lazurowa 3 a  
 66-415 Kłodawa  
-NIP: 854 117 23 95
+NIP: 854 117 23 95  
+jarek.myszak@gmail.com
 
 
 
