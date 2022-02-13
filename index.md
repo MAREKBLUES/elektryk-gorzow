@@ -40,3 +40,4 @@ Konsultacja telefoniczna: 510 002 388
 
 ![Rozdzielnia elektryczna](/rozdzielnia-elektryczna.jpg)
 ![Miernik](/1.jpg)
+![1](/skrzynka-elektryczna.jpg)
