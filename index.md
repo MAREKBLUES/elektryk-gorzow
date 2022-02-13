@@ -8,14 +8,14 @@ jarek.myszak@gmail.com
 
 
 
-Instalacje elektryczne 
-Pomiary elektryczne 
-Diagnostyka systemów fotowoltaicznych
-Badania jakości energii elektrycznej 
-Pomiary natężenia oświetlenia
-Pogotowie elektryczne – awarie prądu
-Skrzynki i tablice bezpiecznikowe 
-Wykopy pod kabel elektryczny
+- Instalacje elektryczne  
+- Pomiary elektryczne  
+- Diagnostyka systemów fotowoltaicznych  
+- Badania jakości energii elektrycznej  
+- Pomiary natężenia oświetlenia  
+- Pogotowie elektryczne – awarie prądu  
+- Skrzynki i tablice bezpiecznikowe   
+- Wykopy pod kabel elektryczny  
 
 Nasza firma  to również gwarancja bezpieczeństwa
 i higieny pracy naszych elektryków. 
@@ -39,3 +39,4 @@ Konsultacja telefoniczna: 510 002 388
 [ Dz.U.02.76.690, zm. Dz.U. 09.56.461](http://isap.sejm.gov.pl/DetailsServlet?id=WDU20020750690)
 
 ![Rozdzielnia elektryczna](/rozdzielnia-elektryczna.jpg)
+![Miernik](/1.jpg)
