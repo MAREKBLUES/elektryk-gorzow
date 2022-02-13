@@ -1,11 +1,11 @@
 # Usługi elektryczne
 ## Jarosław Myszak
-tel. 510002388  
-tel. 605671631  
+tel. [510002388](tel:510002388)  
+tel. [605671631](tel:605671631)  
 ul. Lazurowa 3 a  
 66-415 Kłodawa  
 NIP: 854 117 23 95  
-jarek.myszak@gmail.com
+[jarek.myszak@gmail.com](mailto:jarek.myszak@gmail.com)
 
 
 
@@ -30,7 +30,7 @@ Posiadamy wiedzę oraz doświadczanie do wykonywania pomiarów
 elektrycznych zgodnie z obowiązującymi standardami bezpieczeństwa,
 prawa energetycznego oraz właściwych norm.
 
-Konsultacja telefoniczna: 510 002 388
+Konsultacja telefoniczna: [510 002 388](tel:510002388)
 
 1. Prawo Budowlane
 [Ustawa z dnia 7 lipca 1994 r.](http://isap.sejm.gov.pl/DetailsServlet?id=WDU19940890414)
@@ -41,4 +41,4 @@ Konsultacja telefoniczna: 510 002 388
 
 ![Rozdzielnia elektryczna](/rozdzielnia-elektryczna.jpg)
 ![Miernik](/1.jpg)
-![1](/skrzynka-elektryczna.jpg)
+![Skrzynka elektryczna](/skrzynka-elektryczna.jpg)
