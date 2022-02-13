@@ -1,6 +1,7 @@
 # Usługi elektryczne
 ## Jarosław Myszak
-tel. 510002388, 605671631  
+tel. 510002388  
+tel. 605671631  
 ul. Lazurowa 3 a  
 66-415 Kłodawa  
 NIP: 854 117 23 95  
