@@ -43,3 +43,5 @@ Konsultacja telefoniczna: [510 002 388](tel:510002388)
 ![Miernik](/1.jpg)
 ![Skrzynka elektryczna](/skrzynka-elektryczna.jpg)
 ![żeliwna](/żeliwna.jpg)
+
+{% seo %}
